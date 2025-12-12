@@ -28,7 +28,7 @@ const Home: React.FC = () => {
           >
              {/* Using a darker, moodier image for better text contrast */}
              <img 
-              src="/images/hero-home.webp" 
+              src="/hero-home.webp" 
               alt="Lorkova Vila Mood" 
               className="w-full h-full object-cover"
             />
